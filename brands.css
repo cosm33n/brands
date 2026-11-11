@@ -25,6 +25,22 @@
     --primitive-color-brand-on-dark: var(--primitive-color-brand-primary);
 }
 
+[data-brand="bright-turquoise"] {
+    --primitive-color-brand-primary: #20e1db;
+    --primitive-color-brand-10: #effefc;
+    --primitive-color-brand-20: #c8fff8;
+    --primitive-color-brand-30: #92fdf2;
+    --primitive-color-brand-40: #34f3e7;
+    --primitive-color-brand-50: #20e1db;
+    --primitive-color-brand-60: #07c5c2;
+    --primitive-color-brand-70: #039d9e;
+    --primitive-color-brand-80: #077c7e;
+    --primitive-color-brand-90: #0b6164;
+    --primitive-color-brand-100: #012f32;
+    --primitive-color-brand-foreground: var(--primitive-color-neutral-dark);
+    --primitive-color-brand-on-dark: var(--primitive-color-brand-primary);
+}
+
 [data-brand="airy-blue"] {
     /* wl-styles.css */
     --primitive-color-brand-primary: #76d2ff;
